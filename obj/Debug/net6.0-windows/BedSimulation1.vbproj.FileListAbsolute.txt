@@ -1,0 +1,17 @@
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.vbproj.AssemblyReference.cache
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.FrmBedSim.resources
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.vbproj.GenerateResource.cache
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.AssemblyInfoInputs.cache
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.AssemblyInfo.vb
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.vbproj.CoreCompileInputs.cache
+D:\BedSimulationNew\BedSimulation1\bin\Debug\net6.0-windows\BedSimulation1.exe
+D:\BedSimulationNew\BedSimulation1\bin\Debug\net6.0-windows\BedSimulation1.deps.json
+D:\BedSimulationNew\BedSimulation1\bin\Debug\net6.0-windows\BedSimulation1.runtimeconfig.json
+D:\BedSimulationNew\BedSimulation1\bin\Debug\net6.0-windows\BedSimulation1.dll
+D:\BedSimulationNew\BedSimulation1\bin\Debug\net6.0-windows\BedSimulation1.pdb
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.dll
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\refint\BedSimulation1.dll
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.pdb
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\BedSimulation1.genruntimeconfig.cache
+D:\BedSimulationNew\BedSimulation1\obj\Debug\net6.0-windows\ref\BedSimulation1.dll

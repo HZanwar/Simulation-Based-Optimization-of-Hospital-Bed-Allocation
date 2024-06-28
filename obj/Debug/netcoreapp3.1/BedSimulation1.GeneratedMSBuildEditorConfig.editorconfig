@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = My Project\app.manifest
+build_property.StartupObject = BedSimulation1.FrmBedSim
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = BedSimulation1
+build_property.ProjectDir = D:\BedSimulationNew\BedSimulation1\
